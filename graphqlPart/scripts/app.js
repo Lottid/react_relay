@@ -1,1 +1,2 @@
-require('./simpleFunction');
+// import {} from './simpleFunction'
+import {} from './starWar/test'
